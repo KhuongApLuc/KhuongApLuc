@@ -19,7 +19,7 @@
 </head>
     
 <body>
-    <h1>About Me</h1>
+    <h2>🍀About Me🍀</h2>
     <ul1>
         <li>🧑‍🎓 I’m currently a student at FPT University 🧑‍🎓</li>
         <li>🤖 Artificial Intelligence 🤖</li>
@@ -27,13 +27,13 @@
         <li>🎱 Billiard 🎱</li>
         <li>⚡ Quotes: Go to sleep early to get anything you want ...in your dream... ⚡</li>
     </ul1>
-    <h2>Contact Me</h2>
+    <h2>☎️Contact Me☎️</h2>
     <ul2>
         <li>📞 0374813705 📞</li>
         <li>💭 Facebook: <a href="https://www.facebook.com/profile.php?id=100013776404180">Phạm Khương</a> 💭</li>
         <li>✉️ Email: <a href="mailto:khuongdpd03@gmail.com">khuongdpd03@gmail.com</a> ✉️</li>
     </ul2>
-    <h3>Tools</h3>
+    <h2>🎁Tools🎁</h2>
     <ul3>
         <p> <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/colab_favicon_256px.png" width = "40" />
         <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/kaggle-icon-2048x2048-fxhlmjy3.png" width = "40" />
@@ -44,17 +44,24 @@
         <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/269-2693201_mysql-logo-circle-png.png" width = "40"/>
         <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/WhatsApp-Image-2024-05-06-at-8.01.01-PM.jpeg" width = "40"/>
     </ul3>
-    <h4>Framework and Library</h4>
+    <h2>💡Framework and Library💡</h2>
     <ul4>
-        <p> <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/colab_favicon_256px.png" width = "40" />
-        <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/kaggle-icon-2048x2048-fxhlmjy3.png" width = "40" />
-        <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/apps.22477.9007199267161390.e6424e19-5ac0-4841-8393-87f5c9419809.png" width = "40" />
-        <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/images.jpg" width = "40" />
-        <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/channels4_profile.jpg" width = "40"/>
-        <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/GitHub_Invertocat_Logo.svg" width = "40"/>
-        <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/269-2693201_mysql-logo-circle-png.png" width = "40"/>
-        <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/WhatsApp-Image-2024-05-06-at-8.01.01-PM.jpeg" width = "40"/>
+        <p> <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/images (3).png" width = "40" />
+        <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/images (2).png" width = "40" />
+        <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/images (1).png" width = "40" />
+        <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/unnamed.jpg" width = "40" />
+        <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/1200px-Matplotlib_icon.svg.png" width = "40"/>
+        <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/images.png" width = "40"/>
+        <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/1661493497844.png" width = "40"/>
+        <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/1200px-Pandas_mark.svg.png" width = "40"/>
     </ul4>
+    <h2>🏆Github Profile Stats🏆</h2>
+    <div class="github-stats">
+            <a href="https://git.io/streak-stats">
+                <img src="https://streak-stats.demolab.com/?user=KhuongApLuc" alt="GitHub Streak Stats">
+            </a>
+    </div>
 </body>
 </html>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhuongApLuc&show_icons=true&theme=radical)
