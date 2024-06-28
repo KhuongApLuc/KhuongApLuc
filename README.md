@@ -1,5 +1,6 @@
-## Hi, I'm Pham Duy Khuong 👋
-
+<h1 align="center"> Hi, I'm Pham Duy Khuong 👋 </h1>
+<p align="center"><img src="_ _ _"/></p>
+<h3 align="center"> An AI internship </h3>
 <!--
 **KhuongApLuc/KhuongApLuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
