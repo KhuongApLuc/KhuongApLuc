@@ -35,7 +35,8 @@
     </ul2>
     <h3>Tools</h3>
     <ul3>
-        <li></li>
+        <p> <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/colab_favicon_256px.png" width = "50" />
+        <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/png-clipart-mysql-mysql-thumbnail.png" width = "50" />
     </ul3>
 </body>
 </html>
