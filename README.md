@@ -44,6 +44,17 @@
         <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/269-2693201_mysql-logo-circle-png.png" width = "40"/>
         <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/WhatsApp-Image-2024-05-06-at-8.01.01-PM.jpeg" width = "40"/>
     </ul3>
+    <h4>Framework and Library</h4>
+    <ul4>
+        <p> <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/colab_favicon_256px.png" width = "40" />
+        <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/kaggle-icon-2048x2048-fxhlmjy3.png" width = "40" />
+        <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/apps.22477.9007199267161390.e6424e19-5ac0-4841-8393-87f5c9419809.png" width = "40" />
+        <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/images.jpg" width = "40" />
+        <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/channels4_profile.jpg" width = "40"/>
+        <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/GitHub_Invertocat_Logo.svg" width = "40"/>
+        <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/269-2693201_mysql-logo-circle-png.png" width = "40"/>
+        <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/WhatsApp-Image-2024-05-06-at-8.01.01-PM.jpeg" width = "40"/>
+    </ul4>
 </body>
 </html>
 
