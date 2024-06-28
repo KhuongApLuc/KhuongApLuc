@@ -56,13 +56,14 @@
         <img src= "https://github.com/KhuongApLuc/KhuongApLuc/blob/main/1200px-Pandas_mark.svg.png" width = "40"/>
     </ul4>
     <h2>🏆Github Profile Stats🏆</h2>
-    <div class="github-stats">
-            <a href="https://git.io/streak-stats">
-                <img src="https://streak-stats.demolab.com/?user=KhuongApLuc" alt="GitHub Streak Stats">
-            </a>
+    <div>
+        <a href="https://git.io/streak-stats">
+            <img src="https://streak-stats.demolab.com/?user=KhuongApLuc&theme=default" alt="GitHub Streak Stats">
+        </a>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhuongApLuc&layout=compact" alt="Top Languages">
+            <img src="https://github-readme-stats.vercel.app/api?username=KhuongApLuc&show_icons=true&theme=default" alt="Anurag's GitHub Stats">
+    </div>
     </div>
 </body>
 </html>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhuongApLuc&layout=donut-vertical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhuongApLuc&show_icons=true&theme=default)
