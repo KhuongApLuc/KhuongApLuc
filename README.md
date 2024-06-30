@@ -22,11 +22,11 @@
 <body>
     <h2>🍀About Me🍀</h2>
     <ul1>
-        <h5 align = "center">🧑‍🎓 I’m currently a student at FPT University 🧑‍🎓 </h5> 
-        <h5 align = "center">🤖 Artificial Intelligence 🤖</h5>
-        <h5 align = "center">🏸 Badminton 🏸</h5>
         <h5 align = "center">🎱 Billiard 🎱</h5>
-        <h5 align = "center">⚡ Quotes: Go to sleep early to get anything you want ...in your dream... ⚡</h5>
+        <h5 align = "center">🏸 Badminton 🏸</h5>
+        <h5 align = "center">🤖 Artificial Intelligence 🤖</h5>
+        <h5 align = "center">🧑‍🎓 I’m currently a student at FPT University 🧑‍🎓 </h5> 
+        <h5 align = "center">⚡ Go to sleep early to get anything you want ...in your dream... ⚡</h5>
     </ul1>
     <h2>☎️Contact Me☎️</h2>
     <ul2>
