@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<head>
 <h1 align="center"> 👋 Hi, I'm Pham Duy Khuong 👋 </h1>
 <div align="center" style="text-align:center;">
     <img src="https://github.com/KhuongApLuc/KhuongApLuc/blob/main/quoc-ky-viet-nam.jpg" width="60" style="display:inline-block;"/>
