@@ -63,7 +63,7 @@
     <h2>🏆Github Profile Stats🏆</h2>
     <div align = "center">
         <a href="https://git.io/streak-stats">
-            <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png&theme=default" alt="GitHub Streak Stats" width = "300">
+            <img src="https://streak-stats.demolab.com/?user=KhuongApLuc&theme=default" alt="GitHub Streak Stats" width = "300">
         </a>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhuongApLuc&layout=compact" alt="Top Languages" width = "215">
             <img src="https://github-readme-stats.vercel.app/api?username=KhuongApLuc&show_icons=true&theme=default" alt="Anurag's GitHub Stats" width = "280">
